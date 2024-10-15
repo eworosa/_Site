@@ -1,0 +1,697 @@
+{
+  "source_base_path": "C:/Users/MarceloEworoOsoNtong/Documents/Development/AlDoc",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Codeunit/IntrastatReportManagement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Codeunit/IntrastatReportManagement.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Doc.-Compl..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Doc.-Compl..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Exp.-External.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Exp.-External.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type-Sel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type-Sel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Periodicity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Periodicity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Shpt.-Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Shpt.-Base.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Suppl.-Weight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Suppl.-Weight.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-File-Fmt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-File-Fmt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-No.-Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-No.-Base.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Module/Intrastat-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Module/Intrastat-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralObsoletionList",
+      "source_relative_path": "reference/intrastat-core/Obsoletion/obsolete_by_22.0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Obsoletion/obsolete_by_22.0.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralObsoletionList",
+      "source_relative_path": "reference/intrastat-core/Obsoletion/obsolete_by_24.0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Obsoletion/obsolete_by_24.0.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Intrastat-Report-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Intrastat-Report-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup-Wizard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup-Wizard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Account-RC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Account-RC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Bus.Man.-RC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Bus.Man.-RC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Cust.-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Cust.-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-ErrMsg.-Part.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-ErrMsg.-Part.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-FA-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-FA-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Nmbs..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Nmbs..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Obs.-Adv.-Intrastat-Checklist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Obs.-Adv.-Intrastat-Checklist.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Obs.-Int.-Jnl.-Template-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Obs.-Int.-Jnl.-Template-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Obs.-Int.-Journal-Templates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Obs.-Int.-Journal-Templates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Obs.-Intrastat-Jnl.-Batches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Obs.-Intrastat-Jnl.-Batches.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Obs.-Intrastat-Journal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Obs.-Intrastat-Journal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PageExtension/Obs.-Intrastat-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PageExtension/Obs.-Intrastat-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSet/Microsoft.Inventory.Intrastat.Intrastat-Core---Objects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSet/Microsoft.Inventory.Intrastat.Intrastat-Core---Objects.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-BASIC---Intr.-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-BASIC---Intr.-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-BASIC-ISV---Intr.-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-BASIC-ISV---Intr.-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-READ---Intr.-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-READ---Intr.-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-TEAM-MEMBER---Intr.-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-TEAM-MEMBER---Intr.-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.INTELLIGENT-CLOUD---Intr.-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.INTELLIGENT-CLOUD---Intr.-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.LOCAL---Intr.-Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.LOCAL---Intr.-Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/ReportExtension/Obs.-Intrastat---Checklist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/ReportExtension/Obs.-Intrastat---Checklist.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/ReportExtension/Obs.-Intrastat---Form.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/ReportExtension/Obs.-Intrastat---Form.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Customer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-GL-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-GL-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Purch.-Head..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Purch.-Head..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Sales-Head..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Sales-Head..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Serv.-Head..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Serv.-Head..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Number.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/intrastat-core/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/intrastat-core/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/intrastat-core/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,1167 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Contact_Type.Contact
+  name: Contact
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Contact_Type.Vendor
+  name: Vendor
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Contact_Type._
+  name: "\" \""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type.Receipt
+  name: Receipt
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type.Shipment
+  name: Shipment
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type_Sel.Both
+  name: Both
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type-Sel.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type_Sel.Receipt
+  name: Receipt
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type-Sel.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type_Sel.Shipment
+  name: Shipment
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type-Sel.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Periodicity.Month
+  name: Month
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Periodicity.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Periodicity.Quarter
+  name: Quarter
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Periodicity.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Periodicity.Year
+  name: Year
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Periodicity.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Shpt#_Base.Bill-to_Country
+  name: "\"Bill-to Country\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Shpt.-Base.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Shpt#_Base.Sell-to_Country
+  name: "\"Sell-to Country\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Shpt.-Base.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Shpt#_Base.Ship-to_Country
+  name: "\"Ship-to Country\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Shpt.-Base.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Source_Type.FA_Entry
+  name: "\"FA Entry\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Source_Type.Item_Entry
+  name: "\"Item Entry\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Source_Type.Job_Entry
+  name: "\"Job Entry\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Source_Type._
+  name: "\" \""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System.1-Final_Destination
+  name: "\"1-Final Destination\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System.2-Temporary_Destination
+  name: "\"2-Temporary Destination\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System.3-Temporary_Destination+Transformation
+  name: "\"3-Temporary Destination+Transformation\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System.4-Return
+  name: "\"4-Return\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System.5-Return+Transformation
+  name: "\"5-Return+Transformation\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System._
+  name: "\" \""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Status.Open
+  name: Open
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Status.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Status.Released
+  name: Released
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Status.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Suppl#_Weight.Weight
+  name: Weight
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Suppl.-Weight.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Suppl#_Weight._
+  name: "\" \""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Suppl.-Weight.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Type.Purchases
+  name: Purchases
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Type.Sales
+  name: Sales
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Type.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_File_Fmt.EU_Country_Code_+_VAT_Reg#_No
+  name: "\"EU Country Code + VAT Reg. No\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-File-Fmt.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_File_Fmt.VAT_Reg#_No#
+  name: "\"VAT Reg. No.\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-File-Fmt.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_File_Fmt.VAT_Reg#_No#_Without_EU_Country_Code
+  name: "\"VAT Reg. No. Without EU Country Code\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-File-Fmt.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_No#_Base.Bill-to_VAT
+  name: "\"Bill-to VAT\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-No.-Base.html
+- uid: E:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_No#_Base.Sell-to_VAT
+  name: "\"Sell-to VAT\""
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-No.-Base.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Field_Name[250]
+  name: "\"Field Name\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Field_No#
+  name: "\"Field No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Filter_Expression[1024]
+  name: "\"Filter Expression\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Must_Be_Blank_For_Filter_Expr#[1024]
+  name: "\"Must Be Blank For Filter Expr.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Must_Be_Blank_Rec#_View_String[1024]
+  name: "\"Must Be Blank Rec. View String\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Record_View_String[1024]
+  name: "\"Record View String\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.Reversed_Filter_Expression
+  name: "\"Reversed Filter Expression\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.SystemId
+  name: SystemId
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Amounts_in_Add#_Currency
+  name: "\"Amounts in Add. Currency\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Arrivals_Reported
+  name: "\"Arrivals Reported\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Corrective_Entry
+  name: "\"Corrective Entry\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Currency_Identifier[10]
+  name: "\"Currency Identifier\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Description[100]
+  name: Description
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Dispatches_Reported
+  name: "\"Dispatches Reported\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.EU_Service
+  name: "\"EU Service\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Export_Date
+  name: "\"Export Date\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Export_Time
+  name: "\"Export Time\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.File_Disk_No#[20]
+  name: "\"File Disk No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.No#[20]
+  name: "\"No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.No#_Series[20]
+  name: "\"No. Series\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Periodicity
+  name: Periodicity
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Reported
+  name: Reported
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Statistics_Period[10]
+  name: "\"Statistics Period\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Status
+  name: Status
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.SystemId
+  name: SystemId
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.Type
+  name: Type
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Amount
+  name: Amount
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Area[10]
+  name: "\"Area\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Corrected_Document_No#[20]
+  name: "\"Corrected Document No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Corrected_Intrastat_Report_No#[20]
+  name: "\"Corrected Intrastat Report No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Correction
+  name: Correction
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Corrective_entry
+  name: "\"Corrective entry\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Cost_Regulation_%
+  name: "\"Cost Regulation %\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Counterparty
+  name: Counterparty
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Country/Region_Code[10]
+  name: "\"Country/Region Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Country/Region_of_Origin_Code[10]
+  name: "\"Country/Region of Origin Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Country/Region_of_Payment_Code[10]
+  name: "\"Country/Region of Payment Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Currency_Code[10]
+  name: "\"Currency Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Date
+  name: Date
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Document_No#[20]
+  name: "\"Document No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Entry/Exit_Point[10]
+  name: "\"Entry/Exit Point\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Group_Code[10]
+  name: "\"Group Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Indirect_Cost
+  name: "\"Indirect Cost\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Internal_Ref#_No#[10]
+  name: "\"Internal Ref. No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Intrastat_No#[20]
+  name: "\"Intrastat No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Item_Name[100]
+  name: "\"Item Name\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Item_No#[20]
+  name: "\"Item No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Line_No#
+  name: "\"Line No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Location_Code[10]
+  name: "\"Location Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Net_Weight
+  name: "\"Net Weight\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Obligation_Level[20]
+  name: "\"Obligation Level\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Partner_VAT_ID[50]
+  name: "\"Partner VAT ID\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Payment_Method[10]
+  name: "\"Payment Method\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Progressive_No#[5]
+  name: "\"Progressive No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Quantity
+  name: Quantity
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Record_ID_Filter[250]
+  name: "\"Record ID Filter\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Reference_Period[10]
+  name: "\"Reference Period\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Shpt#_Method_Code[10]
+  name: "\"Shpt. Method Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Source_Currency_Amount
+  name: "\"Source Currency Amount\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Source_Entry_No#
+  name: "\"Source Entry No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Source_Type
+  name: "\"Source Type\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Statistical_System
+  name: "\"Statistical System\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Statistical_Value
+  name: "\"Statistical Value\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Statistics_Period[10]
+  name: "\"Statistics Period\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Suppl#_Conversion_Factor
+  name: "\"Suppl. Conversion Factor\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Suppl#_Unit_of_Measure[10]
+  name: "\"Suppl. Unit of Measure\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Supplementary_Quantity
+  name: "\"Supplementary Quantity\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Supplementary_Units
+  name: "\"Supplementary Units\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SystemId
+  name: SystemId
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Tariff_Description[250]
+  name: "\"Tariff Description\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Tariff_No#[20]
+  name: "\"Tariff No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Total_Weight
+  name: "\"Total Weight\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Transaction_Specification[10]
+  name: "\"Transaction Specification\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Transaction_Type[10]
+  name: "\"Transaction Type\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Transport_Method[10]
+  name: "\"Transport Method\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.Type
+  name: Type
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Code[10]
+  name: Code
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Company_VAT_No#_on_File
+  name: "\"Company VAT No. on File\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Cust#_VAT_No#_on_File
+  name: "\"Cust. VAT No. on File\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Data_Exch#_Def#_Code[20]
+  name: "\"Data Exch. Def. Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Data_Exch#_Def#_Code_-_Receipt[20]
+  name: "\"Data Exch. Def. Code - Receipt\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Data_Exch#_Def#_Code_-_Shpt#[20]
+  name: "\"Data Exch. Def. Code - Shpt.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Data_Exch#_Def#_Name[100]
+  name: "\"Data Exch. Def. Name\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Data_Exch#_Def#_Name_-_Receipt[100]
+  name: "\"Data Exch. Def. Name - Receipt\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Data_Exch#_Def#_Name_-_Shpt#[100]
+  name: "\"Data Exch. Def. Name - Shpt.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Def#_3-Party_Trade_VAT_No#[50]
+  name: "\"Def. 3-Party Trade VAT No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Def#_Country/Region_Code[10]
+  name: "\"Def. Country/Region Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Def#_Private_Person_VAT_No#[50]
+  name: "\"Def. Private Person VAT No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Def#_VAT_for_Unknown_State[50]
+  name: "\"Def. VAT for Unknown State\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Default_Trans#_-_Purchase[10]
+  name: "\"Default Trans. - Purchase\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Default_Trans#_-_Return[10]
+  name: "\"Default Trans. - Return\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Default_Trans#_Spec#_Code[10]
+  name: "\"Default Trans. Spec. Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Default_Trans#_Spec#_Ret#_Code[10]
+  name: "\"Default Trans. Spec. Ret. Code\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Get_Partner_VAT_For
+  name: "\"Get Partner VAT For\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Include_Drop_Shipment
+  name: "\"Include Drop Shipment\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Intrastat_Contact_No#[20]
+  name: "\"Intrastat Contact No.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Intrastat_Contact_Type
+  name: "\"Intrastat Contact Type\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Intrastat_Nos#[20]
+  name: "\"Intrastat Nos.\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Report_Receipts
+  name: "\"Report Receipts\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Report_Shipments
+  name: "\"Report Shipments\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Shipments_Based_On
+  name: "\"Shipments Based On\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Split_Files
+  name: "\"Split Files\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Suppl#_Units_Weight
+  name: "\"Suppl. Units Weight\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.SystemId
+  name: SystemId
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.VAT_No#_Based_On
+  name: "\"VAT No. Based On\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Vend#_VAT_No#_on_File
+  name: "\"Vend. VAT No. on File\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.Zip_Files
+  name: "\"Zip Files\""
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Customer.Def#_Transport_Method[10]
+  name: "\"Def. Transport Method\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Customer.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Customer.Default_Trans#_Type[10]
+  name: "\"Default Trans. Type\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Customer.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Customer.Default_Trans#_Type_-_Return[10]
+  name: "\"Default Trans. Type - Return\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Customer.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset.Country/Region_of_Origin_Code[10]
+  name: "\"Country/Region of Origin Code\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset.Exclude_from_Intrastat_Report
+  name: "\"Exclude from Intrastat Report\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset.Gross_Weight
+  name: "\"Gross Weight\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset.Net_Weight
+  name: "\"Net Weight\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset.Supplementary_Unit_of_Measure[10]
+  name: "\"Supplementary Unit of Measure\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset.Tariff_No#[20]
+  name: "\"Tariff No.\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item.Exclude_from_Intrastat_Report
+  name: "\"Exclude from Intrastat Report\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item.Supplementary_Unit_of_Measure[10]
+  name: "\"Supplementary Unit of Measure\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item_Templ#.Exclude_from_Intrastat_Report
+  name: "\"Exclude from Intrastat Report\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Tariff_Number.Suppl#_Conversion_Factor
+  name: "\"Suppl. Conversion Factor\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Number.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Tariff_Number.Suppl#_Unit_of_Measure[10]
+  name: "\"Suppl. Unit of Measure\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Number.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Vendor.Def#_Transport_Method[10]
+  name: "\"Def. Transport Method\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Vendor.Default_Trans#_Type[10]
+  name: "\"Default Trans. Type\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor.html
+- uid: F:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Vendor.Default_Trans#_Type_-_Return[10]
+  name: "\"Default Trans. Type - Return\""
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor.html
+- uid: M:Codeunit::IntrastatReportManagement.CalcStatisticalValue(Intrastat_Report_Line@,Intrastat_Report_Line,Decimal@,Decimal@,Boolean@,Boolean@)
+  name: CalcStatisticalValue
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ChecklistClearBatchErrors(Intrastat_Report_Header)
+  name: ChecklistClearBatchErrors
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.DisableNotification(Notification)
+  name: DisableNotification
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ExportOneDataExchangeDef(Intrastat_Report_Header,Code[20],Integer,__MissingSymbol__@)
+  name: ExportOneDataExchangeDef
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ExportToFile(__MissingSymbol__,__MissingSymbol__@,Text)
+  name: ExportToFile
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ExportWithDataExch(Intrastat_Report_Header,Integer)
+  name: ExportWithDataExch
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.GetCompanyVATRegNo:Text[50]
+  name: GetCompanyVATRegNo
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.GetIntrastatBaseCountryCode(__MissingSymbol__):Code[10]
+  name: GetIntrastatBaseCountryCode
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.GetOriginalCurrency(__MissingSymbol__):Code[10]
+  name: GetOriginalCurrency
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.GetVATRegNo(Code[10],Text[20],Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_File_Fmt):Text[50]
+  name: GetVATRegNo
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.InitSetup(Intrastat_Report_Setup@)
+  name: InitSetup
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.IsCustomerPrivatePerson(__MissingSymbol__):Boolean
+  name: IsCustomerPrivatePerson
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.IsFeatureEnabled:Boolean
+  name: IsFeatureEnabled
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.IsVendorPrivatePerson(__MissingSymbol__):Boolean
+  name: IsVendorPrivatePerson
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.LearnMore(Notification)
+  name: LearnMore
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.NotifyUserAboutIntrastatFeature
+  name: NotifyUserAboutIntrastatFeature
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnAfterCheckFeatureEnabled(Boolean@)
+  name: OnAfterCheckFeatureEnabled
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnAfterExportIntrastatHeader(Intrastat_Report_Header@,Boolean@)
+  name: OnAfterExportIntrastatHeader
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnAfterGetIntrastatBaseCountryCodeFromFAEntry(__MissingSymbol__@,Intrastat_Report_Setup@,Code[10]@)
+  name: OnAfterGetIntrastatBaseCountryCodeFromFAEntry
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnAfterReleaseIntrastatHeader(Intrastat_Report_Header@)
+  name: OnAfterReleaseIntrastatHeader
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnAfterReopenIntrastatHeader(Intrastat_Report_Header@)
+  name: OnAfterReopenIntrastatHeader
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeCreateDefaultDataExchangeDef(Boolean@)
+  name: OnBeforeCreateDefaultDataExchangeDef
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeDefineFileNames(Intrastat_Report_Header@,Text@,Text@,Text@,Text@,Boolean@)
+  name: OnBeforeDefineFileNames
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeExportIntrastatHeader(Intrastat_Report_Header@,Boolean@)
+  name: OnBeforeExportIntrastatHeader
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeExportIntrastatReportLines(Intrastat_Report_Line@,Intrastat_Report_Header)
+  name: OnBeforeExportIntrastatReportLines
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeExportOneDataExchangeDef(Intrastat_Report_Header@,Code[20],Integer,__MissingSymbol__@,Boolean@)
+  name: OnBeforeExportOneDataExchangeDef
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeExportToFile(__MissingSymbol__,Text@,Boolean@)
+  name: OnBeforeExportToFile
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeExportToZip(__MissingSymbol__,__MissingSymbol__,Text,Text@,Text@,Text@,Text@,Boolean@)
+  name: OnBeforeExportToZip
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeGetIntrastatBaseCountryCode(__MissingSymbol__@,Intrastat_Report_Setup@,Code[10]@,Boolean@)
+  name: OnBeforeGetIntrastatBaseCountryCode
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeGetIntrastatBaseCountryCodeFromFALE(__MissingSymbol__@,Intrastat_Report_Setup@,Code[10]@,Boolean@)
+  name: OnBeforeGetIntrastatBaseCountryCodeFromFALE
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeGetIntrastatBaseCountryCodeFromJLE(__MissingSymbol__@,Intrastat_Report_Setup@,Code[10]@,Boolean@)
+  name: OnBeforeGetIntrastatBaseCountryCodeFromJLE
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeInitCheckList(Boolean@)
+  name: OnBeforeInitCheckList
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeInitSetup(Intrastat_Report_Setup@,Boolean@)
+  name: OnBeforeInitSetup
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeReleaseIntrastatHeader(Intrastat_Report_Header@,Boolean@)
+  name: OnBeforeReleaseIntrastatHeader
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeReopenIntrastatHeader(Intrastat_Report_Header@,Boolean@)
+  name: OnBeforeReopenIntrastatHeader
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeUpdateInternalRefNo(Intrastat_Report_Line@,Text@,Text@)
+  name: OnBeforeUpdateInternalRefNo
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnBeforeValidateReportWithAdvancedChecklist(Intrastat_Report_Line@,Intrastat_Report_Header)
+  name: OnBeforeValidateReportWithAdvancedChecklist
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnExportWithDataExchOnAfterGetIntrastatReportSetup(Intrastat_Report_Setup@,Intrastat_Report_Header@)
+  name: OnExportWithDataExchOnAfterGetIntrastatReportSetup
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.OnGetCompanyVATRegNoOnAfterGetIntrastatReportSetup(__MissingSymbol__@,Intrastat_Report_Setup@)
+  name: OnGetCompanyVATRegNoOnAfterGetIntrastatReportSetup
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.RecalculateWaightAndSupplUOMQty(Intrastat_Report_Header)
+  name: RecalculateWaightAndSupplUOMQty
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ReleaseIntrastatReport(Intrastat_Report_Header@)
+  name: ReleaseIntrastatReport
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ReopenIntrastatReport(Intrastat_Report_Header@)
+  name: ReopenIntrastatReport
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ShowFeatureEnabledMessage(Text,Text)
+  name: ShowFeatureEnabledMessage
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ShowNotEnabledMessage(Text)
+  name: ShowNotEnabledMessage
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.UpdateItemUOM(__MissingSymbol__@,__MissingSymbol__)
+  name: UpdateItemUOM
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ValidateReportLineWithAdvancedChecklist(Intrastat_Report_Line,Boolean):Boolean
+  name: ValidateReportLineWithAdvancedChecklist
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::IntrastatReportManagement.ValidateReportWithAdvancedChecklist(Intrastat_Report_Header,Boolean):Boolean
+  name: ValidateReportWithAdvancedChecklist
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: M:Codeunit::Microsoft#Inventory#Intrastat#Intrastat_Report_Doc#_Compl#.OnAfterDefaultPurchaseDocuments(__MissingSymbol__@,Intrastat_Report_Setup)
+  name: OnAfterDefaultPurchaseDocuments
+  href: reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Doc.-Compl..html
+- uid: M:Codeunit::Microsoft#Inventory#Intrastat#Intrastat_Report_Doc#_Compl#.OnAfterDefaultSalesDocuments(__MissingSymbol__@,Intrastat_Report_Setup)
+  name: OnAfterDefaultSalesDocuments
+  href: reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Doc.-Compl..html
+- uid: M:Codeunit::Microsoft#Inventory#Intrastat#Intrastat_Report_Doc#_Compl#.OnAfterDefaultServiceDocuments(__MissingSymbol__@,Intrastat_Report_Setup)
+  name: OnAfterDefaultServiceDocuments
+  href: reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Doc.-Compl..html
+- uid: M:Page::Microsoft#Inventory#Intrastat#Intrastat_Report.OnBeforeFindVATReportsConfiguration(Intrastat_Report_Header@,__MissingSymbol__@)
+  name: OnBeforeFindVATReportsConfiguration
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report.html
+- uid: M:Page::Microsoft#Inventory#Intrastat#Intrastat_Report.OnBeforeUpdateErrors(Boolean@,Intrastat_Report_Header@)
+  name: OnBeforeUpdateErrors
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report.html
+- uid: M:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup_Wizard.IsSetupFinished:Boolean
+  name: IsSetupFinished
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup-Wizard.html
+- uid: M:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup_Wizard.OnBeforeFinishAction
+  name: OnBeforeFinishAction
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup-Wizard.html
+- uid: M:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Subform.OnBeforeUpdateErrors(Boolean@,Intrastat_Report_Line@)
+  name: OnBeforeUpdateErrors
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Subform.html
+- uid: M:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Subform.UpdateMarkedOnly
+  name: UpdateMarkedOnly
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Subform.html
+- uid: M:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_ErrMsg#_Part.SetContextRecordID(RecordId)
+  name: SetContextRecordID
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-ErrMsg.-Part.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.InitializeRequest(Date,Date,Decimal)
+  name: InitializeRequest
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterCalculateTotals(__MissingSymbol__@,Intrastat_Report_Header,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@)
+  name: OnAfterCalculateTotals
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterCheckItemLedgerEntry(Intrastat_Report_Header,__MissingSymbol__,Boolean@)
+  name: OnAfterCheckItemLedgerEntry
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterGetAmtRoundingDirection(Text[1]@)
+  name: OnAfterGetAmtRoundingDirection
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterGetIntrastatReportLineType(__MissingSymbol__,Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type@)
+  name: OnAfterGetIntrastatReportLineType
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterInitRequestPage(Intrastat_Report_Header@,Boolean@,Date@,Date@,Boolean@)
+  name: OnAfterInitRequestPage
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterItemLedgerEntryOnPreDataItem(__MissingSymbol__@)
+  name: OnAfterItemLedgerEntryOnPreDataItem
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterSkipValueEntry(Date,Date,__MissingSymbol__,__MissingSymbol__,Boolean@)
+  name: OnAfterSkipValueEntry
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnAfterValueEntryOnPreDataItem(Intrastat_Report_Header,__MissingSymbol__@,__MissingSymbol__@)
+  name: OnAfterValueEntryOnPreDataItem
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeCalculateTotals(__MissingSymbol__@,Intrastat_Report_Header,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Decimal@,Date,Date,Boolean,Boolean@)
+  name: OnBeforeCalculateTotals
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeCalculateTotalsCall(Intrastat_Report_Header,Intrastat_Report_Line@,__MissingSymbol__@,__MissingSymbol__@,Date,Date,Boolean,Decimal,Decimal,Boolean@,Boolean@)
+  name: OnBeforeCalculateTotalsCall
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeCheckDropShipment(Intrastat_Report_Header,__MissingSymbol__,__MissingSymbol__,Boolean@,Boolean@)
+  name: OnBeforeCheckDropShipment
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeFilterFALedgerEntry(Intrastat_Report_Header,__MissingSymbol__@,Date,Date,Boolean@)
+  name: OnBeforeFilterFALedgerEntry
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeFilterItemLedgerEntry(Intrastat_Report_Header,__MissingSymbol__@,Date,Date,Boolean@)
+  name: OnBeforeFilterItemLedgerEntry
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeFilterValueEntry(Intrastat_Report_Header,__MissingSymbol__@,__MissingSymbol__,Date,Date,Boolean@)
+  name: OnBeforeFilterValueEntry
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeHasCrossedBorder(__MissingSymbol__,Boolean@,Boolean@)
+  name: OnBeforeHasCrossedBorder
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeInsertFALedgerLine(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeInsertFALedgerLine
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeInsertItemLedgerLine(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeInsertItemLedgerLine
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeInsertItemLedgerLineCall(Intrastat_Report_Header,Intrastat_Report_Line@,__MissingSymbol__@,__MissingSymbol__@,Boolean@)
+  name: OnBeforeInsertItemLedgerLineCall
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeInsertJobLedgerLine(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeInsertJobLedgerLine
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeInsertValueEntryLine(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeInsertValueEntryLine
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeValidateFALedgerLineFields(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeValidateFALedgerLineFields
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeValidateItemLedgerLineFields(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeValidateItemLedgerLineFields
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnBeforeValidateJobLedgerLineFields(Intrastat_Report_Line@,__MissingSymbol__,Boolean@)
+  name: OnBeforeValidateJobLedgerLineFields
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnCalculateTotalsOnAfterSumTotals(__MissingSymbol__@,Intrastat_Report_Header,Decimal@,Decimal@)
+  name: OnCalculateTotalsOnAfterSumTotals
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.OnCalculateTotalsOnBeforeSumTotals(__MissingSymbol__@,Intrastat_Report_Header,Decimal@,Decimal@)
+  name: OnCalculateTotalsOnBeforeSumTotals
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines.SetIntrastatReportHeader(Intrastat_Report_Header)
+  name: SetIntrastatReportHeader
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.AssistEditFieldName
+  name: AssistEditFieldName
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist.LinePassesFilterExpression(Intrastat_Report_Line):Boolean
+  name: LinePassesFilterExpression
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.AssistEdit(Intrastat_Report_Header):Boolean
+  name: AssistEdit
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.CheckEUServAndCorrection(Code[20],Boolean,Boolean)
+  name: CheckEUServAndCorrection
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.CheckStatusOpen
+  name: CheckStatusOpen
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.ErrorIfIntrastatReportLineExist(Text)
+  name: ErrorIfIntrastatReportLineExist
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.GetStatisticsStartDate:Date
+  name: GetStatisticsStartDate
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.IntrastatReportLinesExist:Boolean
+  name: IntrastatReportLinesExist
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.OnBeforeAssistEdit(Intrastat_Report_Header@,Intrastat_Report_Header@,Boolean@,Boolean@)
+  name: OnBeforeAssistEdit
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.OnBeforeCheckStatusOpen(Intrastat_Report_Header,Intrastat_Report_Header,Boolean@)
+  name: OnBeforeCheckStatusOpen
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.OnBeforeInitIntrastatNo(Intrastat_Report_Header@,Intrastat_Report_Header@,Boolean@)
+  name: OnBeforeInitIntrastatNo
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header.UpdateReported
+  name: UpdateReported
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.CheckHeaderStatusOpen
+  name: CheckHeaderStatusOpen
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.GetCountryOfOriginCode:Code[10]
+  name: GetCountryOfOriginCode
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.GetPartnerID:Text[50]
+  name: GetPartnerID
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnAfterGetCountryOfOriginCode(Intrastat_Report_Line@,Code[10]@)
+  name: OnAfterGetCountryOfOriginCode
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeCheckDateInRange(Intrastat_Report_Line@,Boolean@)
+  name: OnBeforeCheckDateInRange
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetCountryOfOriginCode(Intrastat_Report_Line@,Code[10]@,Boolean@)
+  name: OnBeforeGetCountryOfOriginCode
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetCustomerPartnerIDFromItemEntry(__MissingSymbol__@,Boolean,Text[50]@,Boolean@)
+  name: OnBeforeGetCustomerPartnerIDFromItemEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetCustomerPartnerIDFromJobEntry(__MissingSymbol__@,Text[50]@,Boolean@)
+  name: OnBeforeGetCustomerPartnerIDFromJobEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetItemDescription(Boolean@,Intrastat_Report_Line@)
+  name: OnBeforeGetItemDescription
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetPartnerID(Intrastat_Report_Line@,Text[50]@,Boolean@)
+  name: OnBeforeGetPartnerID
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetPartnerIDForCountry(Code[10],Text[50],Boolean,Boolean,Text[50]@,Boolean@)
+  name: OnBeforeGetPartnerIDForCountry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetPartnerIDFromFAEntry(Intrastat_Report_Line@,Text[50]@,Boolean@)
+  name: OnBeforeGetPartnerIDFromFAEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetPartnerIDFromItemEntry(Intrastat_Report_Line@,Text[50]@,Boolean@)
+  name: OnBeforeGetPartnerIDFromItemEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetPartnerIDFromJobEntry(Intrastat_Report_Line@,Text[50]@,Boolean@)
+  name: OnBeforeGetPartnerIDFromJobEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetVendorPartnerIDFromFAEntry(__MissingSymbol__@,Text[50]@,Boolean@)
+  name: OnBeforeGetVendorPartnerIDFromFAEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.OnBeforeGetVendorPartnerIDFromItemEntry(__MissingSymbol__@,Text[50]@,Boolean@)
+  name: OnBeforeGetVendorPartnerIDFromItemEntry
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line.SetIntrastatReportHeaderFilters(Intrastat_Report_Header@)
+  name: SetIntrastatReportHeaderFilters
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: M:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup.CheckDeleteIntrastatContact(Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Contact_Type,Code[20])
+  name: CheckDeleteIntrastatContact
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Purch#_Head#.OnAfterUpdateIntrastatFields(__MissingSymbol__@,__MissingSymbol__@,Intrastat_Report_Setup@,Integer)
+  name: OnAfterUpdateIntrastatFields
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Purch.-Head..html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Purch#_Head#.OnBeforeUpdateIntrastatFields(__MissingSymbol__@,Integer,Boolean@)
+  name: OnBeforeUpdateIntrastatFields
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Purch.-Head..html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Sales_Head#.OnAfterUpdateIntrastatFields(__MissingSymbol__@,__MissingSymbol__@,Intrastat_Report_Setup@,Integer)
+  name: OnAfterUpdateIntrastatFields
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Sales-Head..html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Sales_Head#.OnBeforeUpdateIntrastatFields(__MissingSymbol__@,Integer,Boolean@)
+  name: OnBeforeUpdateIntrastatFields
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Sales-Head..html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Serv#_Head#.OnAfterUpdateIntrastatFields(__MissingSymbol__@,__MissingSymbol__@,Intrastat_Report_Setup@,Integer)
+  name: OnAfterUpdateIntrastatFields
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Serv.-Head..html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Serv#_Head#.OnBeforeUpdateIntrastatFields(__MissingSymbol__@,Integer,Boolean@)
+  name: OnBeforeUpdateIntrastatFields
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Serv.-Head..html
+- uid: M:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Tariff_Number.SetSkipValidationLogic(Boolean)
+  name: SetSkipValidationLogic
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Number.html
+- uid: N:Module::Intrastat_Core
+  name: Intrastat Core
+  summary: >
+    <p sourcefile="reference/intrastat-core/Module/Intrastat-Core.yml" sourcestartlinenumber="1" jsonPath="/summary">The formats that businesses must use to report Intrastat vary from country to country. The Intrastat extension makes it easy to export the Intrastat report in the format that the authorities in your country require.</p>
+  fqName: Intrastat Core by Microsoft (24.4.22295.22576)
+  href: reference/intrastat-core/Module/Intrastat-Core.html
+- uid: N:Module::Intrastat_Core_obsolete_by_22.0
+  tag: "22.0"
+  href: reference/intrastat-core/Obsoletion/obsolete_by_22.0.html
+- uid: N:Module::Intrastat_Core_obsolete_by_22.0#22.0
+  href: reference/intrastat-core/Obsoletion/obsolete_by_22.0.html
+- uid: N:Module::Intrastat_Core_obsolete_by_24.0
+  tag: "24.0"
+  href: reference/intrastat-core/Obsoletion/obsolete_by_24.0.html
+- uid: N:Module::Intrastat_Core_obsolete_by_24.0#24.0
+  href: reference/intrastat-core/Obsoletion/obsolete_by_24.0.html
+- uid: O:Codeunit::IntrastatReportManagement
+  name: IntrastatReportManagement
+  fqName: IntrastatReportManagement
+  href: reference/intrastat-core/Codeunit/IntrastatReportManagement.html
+- uid: O:Codeunit::Microsoft#Inventory#Intrastat#Intrastat_Report_Doc#_Compl#
+  name: "\"Intrastat Report Doc. Compl.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Doc. Compl."
+  href: reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Doc.-Compl..html
+- uid: O:Codeunit::Microsoft#Inventory#Intrastat#Intrastat_Report_Exp#_External
+  name: "\"Intrastat Report Exp. External\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Exp. External"
+  href: reference/intrastat-core/Codeunit/Microsoft.Inventory.Intrastat.Intrastat-Report-Exp.-External.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Contact_Type
+  name: "\"Intrastat Report Contact Type\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Contact Type"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact-Type.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type
+  name: "\"Intrastat Report Line Type\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Line Type"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Line_Type_Sel
+  name: "\"Intrastat Report Line Type Sel\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Line Type Sel"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Line-Type-Sel.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Periodicity
+  name: "\"Intrastat Report Periodicity\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Periodicity"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Periodicity.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Shpt#_Base
+  name: "\"Intrastat Report Shpt. Base\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Shpt. Base"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Shpt.-Base.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Source_Type
+  name: "\"Intrastat Report Source Type\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Source Type"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Source-Type.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Stat#_System
+  name: "\"Intrastat Report Stat. System\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Stat. System"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Stat.-System.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Status
+  name: "\"Intrastat Report Status\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Status"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Status.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Suppl#_Weight
+  name: "\"Intrastat Report Suppl. Weight\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Suppl. Weight"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Suppl.-Weight.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_Type
+  name: "\"Intrastat Report Type\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Type"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-Type.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_File_Fmt
+  name: "\"Intrastat Report VAT File Fmt\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report VAT File Fmt"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-File-Fmt.html
+- uid: O:Enum::Microsoft#Inventory#Intrastat#Intrastat_Report_VAT_No#_Base
+  name: "\"Intrastat Report VAT No. Base\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report VAT No. Base"
+  href: reference/intrastat-core/Enum/Microsoft.Inventory.Intrastat.Intrastat-Report-VAT-No.-Base.html
+- uid: O:Page::Intrastat_Report_List
+  name: "\"Intrastat Report List\""
+  fqName: "\"Intrastat Report List\""
+  href: reference/intrastat-core/Page/Intrastat-Report-List.html
+- uid: O:Page::Microsoft#Inventory#Intrastat#Intrastat_Report
+  name: "\"Intrastat Report\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report"
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report.html
+- uid: O:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist
+  name: "\"Intrastat Report Checklist\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Checklist"
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: O:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Lines
+  name: "\"Intrastat Report Lines\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Lines"
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Lines.html
+- uid: O:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup
+  name: "\"Intrastat Report Setup\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Setup"
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: O:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup_Wizard
+  name: "\"Intrastat Report Setup Wizard\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Setup Wizard"
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup-Wizard.html
+- uid: O:Page::Microsoft#Inventory#Intrastat#Intrastat_Report_Subform
+  name: "\"Intrastat Report Subform\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Subform"
+  href: reference/intrastat-core/Page/Microsoft.Inventory.Intrastat.Intrastat-Report-Subform.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Account_RC
+  name: "\"Intrastat Report Account RC\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Account RC"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Account-RC.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Bus#Man#_RC
+  name: "\"Intrastat Report Bus.Man. RC\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Bus.Man. RC"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Bus.Man.-RC.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Cust#_Card
+  name: "\"Intrastat Report Cust. Card\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Cust. Card"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Cust.-Card.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_ErrMsg#_Part
+  name: "\"Intrastat Report ErrMsg. Part\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report ErrMsg. Part"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-ErrMsg.-Part.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_FA_Card
+  name: "\"Intrastat Report FA Card\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report FA Card"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-FA-Card.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item_Card
+  name: "\"Intrastat Report Item Card\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Item Card"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Card.html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item_Templ#
+  name: "\"Intrastat Report Item Templ.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Item Templ."
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Tariff_Nmbs#
+  name: "\"Intrastat Report Tariff Nmbs.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Tariff Nmbs."
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Nmbs..html
+- uid: O:PageExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Vendor_Card
+  name: "\"Intrastat Report Vendor Card\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Vendor Card"
+  href: reference/intrastat-core/PageExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor-Card.html
+- uid: O:PageExtension::Obs#_Adv#_Intrastat_Checklist
+  name: "\"Obs. Adv. Intrastat Checklist\""
+  fqName: "\"Obs. Adv. Intrastat Checklist\""
+  href: reference/intrastat-core/PageExtension/Obs.-Adv.-Intrastat-Checklist.html
+- uid: O:PageExtension::Obs#_Int#_Jnl#_Template_List
+  name: "\"Obs. Int. Jnl. Template List\""
+  fqName: "\"Obs. Int. Jnl. Template List\""
+  href: reference/intrastat-core/PageExtension/Obs.-Int.-Jnl.-Template-List.html
+- uid: O:PageExtension::Obs#_Int#_Journal_Templates
+  name: "\"Obs. Int. Journal Templates\""
+  fqName: "\"Obs. Int. Journal Templates\""
+  href: reference/intrastat-core/PageExtension/Obs.-Int.-Journal-Templates.html
+- uid: O:PageExtension::Obs#_Intrastat_Jnl#_Batches
+  name: "\"Obs. Intrastat Jnl. Batches\""
+  fqName: "\"Obs. Intrastat Jnl. Batches\""
+  href: reference/intrastat-core/PageExtension/Obs.-Intrastat-Jnl.-Batches.html
+- uid: O:PageExtension::Obs#_Intrastat_Journal
+  name: "\"Obs. Intrastat Journal\""
+  fqName: "\"Obs. Intrastat Journal\""
+  href: reference/intrastat-core/PageExtension/Obs.-Intrastat-Journal.html
+- uid: O:PageExtension::Obs#_Intrastat_Setup
+  name: "\"Obs. Intrastat Setup\""
+  fqName: "\"Obs. Intrastat Setup\""
+  href: reference/intrastat-core/PageExtension/Obs.-Intrastat-Setup.html
+- uid: O:PermissionSet::Microsoft#Inventory#Intrastat#Intrastat_Core_-_Objects
+  name: "\"Intrastat Core - Objects\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Core - Objects"
+  href: reference/intrastat-core/PermissionSet/Microsoft.Inventory.Intrastat.Intrastat-Core---Objects.html
+- uid: O:PermissionSetExtension::Microsoft#Inventory#Intrastat#D365_BASIC_-_Intr#_Core
+  name: "\"D365 BASIC - Intr. Core\""
+  fqName: Microsoft.Inventory.Intrastat."D365 BASIC - Intr. Core"
+  href: reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-BASIC---Intr.-Core.html
+- uid: O:PermissionSetExtension::Microsoft#Inventory#Intrastat#D365_BASIC_ISV_-_Intr#_Core
+  name: "\"D365 BASIC ISV - Intr. Core\""
+  fqName: Microsoft.Inventory.Intrastat."D365 BASIC ISV - Intr. Core"
+  href: reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-BASIC-ISV---Intr.-Core.html
+- uid: O:PermissionSetExtension::Microsoft#Inventory#Intrastat#D365_READ_-_Intr#_Core
+  name: "\"D365 READ - Intr. Core\""
+  fqName: Microsoft.Inventory.Intrastat."D365 READ - Intr. Core"
+  href: reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-READ---Intr.-Core.html
+- uid: O:PermissionSetExtension::Microsoft#Inventory#Intrastat#D365_TEAM_MEMBER_-_Intr#_Core
+  name: "\"D365 TEAM MEMBER - Intr. Core\""
+  fqName: Microsoft.Inventory.Intrastat."D365 TEAM MEMBER - Intr. Core"
+  href: reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.D365-TEAM-MEMBER---Intr.-Core.html
+- uid: O:PermissionSetExtension::Microsoft#Inventory#Intrastat#INTELLIGENT_CLOUD_-_Intr#_Core
+  name: "\"INTELLIGENT CLOUD - Intr. Core\""
+  fqName: Microsoft.Inventory.Intrastat."INTELLIGENT CLOUD - Intr. Core"
+  href: reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.INTELLIGENT-CLOUD---Intr.-Core.html
+- uid: O:PermissionSetExtension::Microsoft#Inventory#Intrastat#LOCAL_-_Intr#_Core
+  name: "\"LOCAL - Intr. Core\""
+  fqName: Microsoft.Inventory.Intrastat."LOCAL - Intr. Core"
+  href: reference/intrastat-core/PermissionSetExtension/Microsoft.Inventory.Intrastat.LOCAL---Intr.-Core.html
+- uid: O:Report::Microsoft#Inventory#Intrastat#Intrastat_Report_Get_Lines
+  name: "\"Intrastat Report Get Lines\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Get Lines"
+  href: reference/intrastat-core/Report/Microsoft.Inventory.Intrastat.Intrastat-Report-Get-Lines.html
+- uid: O:ReportExtension::Obs#_Intrastat_-_Checklist
+  name: "\"Obs. Intrastat - Checklist\""
+  fqName: "\"Obs. Intrastat - Checklist\""
+  href: reference/intrastat-core/ReportExtension/Obs.-Intrastat---Checklist.html
+- uid: O:ReportExtension::Obs#_Intrastat_-_Form
+  name: "\"Obs. Intrastat - Form\""
+  fqName: "\"Obs. Intrastat - Form\""
+  href: reference/intrastat-core/ReportExtension/Obs.-Intrastat---Form.html
+- uid: O:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Checklist
+  name: "\"Intrastat Report Checklist\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Checklist"
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Checklist.html
+- uid: O:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Header
+  name: "\"Intrastat Report Header\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Header"
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Header.html
+- uid: O:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Line
+  name: "\"Intrastat Report Line\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Line"
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Line.html
+- uid: O:Table::Microsoft#Inventory#Intrastat#Intrastat_Report_Setup
+  name: "\"Intrastat Report Setup\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Setup"
+  href: reference/intrastat-core/Table/Microsoft.Inventory.Intrastat.Intrastat-Report-Setup.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Contact
+  name: "\"Intrastat Report Contact\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Contact"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Contact.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Customer
+  name: "\"Intrastat Report Customer\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Customer"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Customer.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Fixed_Asset
+  name: "\"Intrastat Report Fixed Asset\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Fixed Asset"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Fixed-Asset.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_GL_Setup
+  name: "\"Intrastat Report GL Setup\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report GL Setup"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-GL-Setup.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item
+  name: "\"Intrastat Report Item\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Item"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Item_Templ#
+  name: "\"Intrastat Report Item Templ.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Item Templ."
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Item-Templ..html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Purch#_Head#
+  name: "\"Intrastat Report Purch. Head.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Purch. Head."
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Purch.-Head..html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Sales_Head#
+  name: "\"Intrastat Report Sales Head.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Sales Head."
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Sales-Head..html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Serv#_Head#
+  name: "\"Intrastat Report Serv. Head.\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Serv. Head."
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Serv.-Head..html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Tariff_Number
+  name: "\"Intrastat Report Tariff Number\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Tariff Number"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Tariff-Number.html
+- uid: O:TableExtension::Microsoft#Inventory#Intrastat#Intrastat_Report_Vendor
+  name: "\"Intrastat Report Vendor\""
+  fqName: Microsoft.Inventory.Intrastat."Intrastat Report Vendor"
+  href: reference/intrastat-core/TableExtension/Microsoft.Inventory.Intrastat.Intrastat-Report-Vendor.html
